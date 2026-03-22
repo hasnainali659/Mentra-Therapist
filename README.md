@@ -62,11 +62,3 @@ curl -s -X POST http://127.0.0.1:8000/session-open -H "Content-Type: application
 ```
 
 On Windows PowerShell you may need to escape quotes differently — Postman works fine too.
-
-## Things I’d do differently with more time
-
-Proper user auth, delete/export memory, better ranking (recency + importance, not just similarity), real notification scheduling. The Gradio app skips re-ingest when Qdrant already has points so chat isn’t painfully slow.
-
-## Caveats
-
-Single demo user in `user_profile.json`, no HIPAA story beyond “don’t ship this as-is”, and the mood score is a hacky keyword map on closing tone text — good enough for the exercise, not for prod.
