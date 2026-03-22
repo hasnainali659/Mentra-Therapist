@@ -1,0 +1,147 @@
+{
+  "session_id": "sess_005",
+  "user_id": "user_aisha_001",
+  "session_number": 5,
+  "timestamp": "2026-03-14T19:30:00Z",
+  "session_theme": "resilience and processing uncertainty",
+  "secondary_themes": ["self-advocacy", "acceptance of uncertainty", "reconnecting with support system"],
+  "emotional_tone": {
+    "opening": "steadier than last session, still cautious",
+    "closing": "quietly hopeful, grounded in own agency",
+    "arc": "measured recovery — not euphoric, but real"
+  },
+  "key_moments": [
+    {
+      "type": "progress",
+      "timestamp_offset_minutes": 4,
+      "content": "User texted her close friend Nadia after session 4 and told her 'work is really hard right now.' Nadia called immediately and they talked for 90 minutes. User said it was the first time in months she did not feel alone in this.",
+      "emotional_weight": 0.85
+    },
+    {
+      "type": "progress",
+      "timestamp_offset_minutes": 11,
+      "content": "User read her values list at 3am on two nights this week — reported it interrupted the spiral both times and she went back to sleep within 30 minutes",
+      "emotional_weight": 0.7
+    },
+    {
+      "type": "disclosure",
+      "timestamp_offset_minutes": 19,
+      "content": "User disclosed she spoke to HR confidentially to understand her rights regarding the PIP threat — she described this as 'the most adult thing I have ever done for myself'",
+      "emotional_weight": 0.9
+    },
+    {
+      "type": "breakthrough",
+      "timestamp_offset_minutes": 28,
+      "content": "User reflected that she is no longer asking 'how do I make my manager approve of me' but instead asking 'what do I want from my career' — she identified this as a fundamental change in the question she was living by",
+      "emotional_weight": 0.95
+    },
+    {
+      "type": "goal",
+      "timestamp_offset_minutes": 37,
+      "content": "User expressed she is beginning to consider whether this job is the right environment for her long-term, and wants to explore this without panic — 'not running away, but looking clearly'",
+      "emotional_weight": 0.8
+    }
+  ],
+  "unresolved_themes": [
+    "PIP situation and its outcome still uncertain",
+    "Long-term career direction question is open",
+    "Full sleep restoration not yet achieved"
+  ],
+  "progress_markers": [
+    "Broke isolation — reconnected with close friend Nadia, 90-minute conversation",
+    "Used values list as grounding tool successfully on multiple nights",
+    "Took self-advocacy action — contacted HR independently",
+    "Fundamental cognitive shift: from 'how do I get approval' to 'what do I want'",
+    "Three consecutive days of leaving office by 6:30pm"
+  ],
+  "user_commitments": [
+    "Will spend 30 minutes this week writing about what she actually wants from her career — no constraints, no manager in the picture",
+    "Will continue the 6:30pm boundary and the lunchtime walks"
+  ],
+  "transcript": [
+    {
+      "speaker": "therapist",
+      "text": "You look different to last week. Steadier, maybe. How are you?"
+    },
+    {
+      "speaker": "user",
+      "text": "I texted Nadia. The same night. She called me immediately and we talked for an hour and a half. I forgot what it felt like to have someone just... be on my side."
+    },
+    {
+      "speaker": "therapist",
+      "text": "That matters so much. What was it like to let someone in?"
+    },
+    {
+      "speaker": "user",
+      "text": "Terrifying for about thirty seconds. Then a relief I can't describe. She kept saying 'why didn't you tell me sooner' and I didn't have a good answer except that I think I've been trying to protect everyone from my own life."
+    },
+    {
+      "speaker": "therapist",
+      "text": "Protecting everyone from your own life. That's a really precise way to put it. What else happened?"
+    },
+    {
+      "speaker": "user",
+      "text": "The 3am thing — I used the list. Twice. Both times it worked. I mean I still woke up, but I read the list and it was like... a handhold. I stopped falling."
+    },
+    {
+      "speaker": "therapist",
+      "text": "You built a tool that works. And you used it. That's the practice."
+    },
+    {
+      "speaker": "user",
+      "text": "I also went to HR."
+    },
+    {
+      "speaker": "therapist",
+      "text": "You did."
+    },
+    {
+      "speaker": "user",
+      "text": "I asked confidentially about what a PIP actually means legally and what my rights are. It took me two hours to write the email to request the meeting, but I sent it. They were actually quite helpful. Turns out a PIP has a specific process, it can't just be a threat — they have to document a lot of things first. I don't think he's done any of that."
+    },
+    {
+      "speaker": "therapist",
+      "text": "You went and got information. On your own behalf. How did that feel?"
+    },
+    {
+      "speaker": "user",
+      "text": "Like the most adult thing I have ever done for myself. Which is embarrassing because I'm 31. But it felt like — oh. I have agency here. I am not just a passenger in my own situation."
+    },
+    {
+      "speaker": "therapist",
+      "text": "That is not embarrassing. That is exactly what this work looks like. I want to ask you about the bigger picture. When you think about your job now — not just your manager, but the whole thing — what do you notice?"
+    },
+    {
+      "speaker": "user",
+      "text": "I think I've been asking the wrong question for years. I've been asking 'how do I make him — or whoever — approve of me.' And I think the actual question is: what do I want from my career? I don't think I've ever let myself ask that."
+    },
+    {
+      "speaker": "therapist",
+      "text": "What happens when you try to ask it now?"
+    },
+    {
+      "speaker": "user",
+      "text": "I don't panic. I'm curious about it. Like I genuinely don't know the answer but for the first time that feels like an open door rather than a hole in the floor."
+    },
+    {
+      "speaker": "therapist",
+      "text": "That shift — from 'hole in the floor' to 'open door' — that's significant. You mentioned looking at whether this role is right for you long-term. Is that feeling like running away or looking clearly?"
+    },
+    {
+      "speaker": "user",
+      "text": "Looking clearly, I think. Not because I'm scared. Because I'm starting to know what I'm worth and I want to put it somewhere that deserves it. That's new."
+    },
+    {
+      "speaker": "therapist",
+      "text": "That is very new. And very solid. Let's give that some space. This week — no manager, no PIP — just you and a blank page. What do you actually want? Thirty minutes, no constraints."
+    },
+    {
+      "speaker": "user",
+      "text": "I can do that. I actually want to do that. Thank you. For — all of this. I came in here in February not really believing this could help and now I'm a person who texts her friends and goes to HR and leaves work before dark. That's not nothing."
+    },
+    {
+      "speaker": "therapist",
+      "text": "It's really not nothing, Aisha. See you next week."
+    }
+  ]
+}

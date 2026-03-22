@@ -1,0 +1,13 @@
+# Local Qdrant for vector search. If 6333 is taken, change the left-hand port or use your existing instance.
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: project_recall_qdrant
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - qdrant_storage:/qdrant/storage
+
+volumes:
+  qdrant_storage:

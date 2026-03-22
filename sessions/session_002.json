@@ -1,0 +1,135 @@
+{
+  "session_id": "sess_002",
+  "user_id": "user_aisha_001",
+  "session_number": 2,
+  "timestamp": "2026-02-14T18:00:00Z",
+  "session_theme": "manager relationship and self-worth",
+  "secondary_themes": ["impostor syndrome", "childhood achievement pressure", "identity tied to work performance"],
+  "emotional_tone": {
+    "opening": "tired, slightly more open than last time",
+    "closing": "emotionally raw but more self-aware",
+    "arc": "guarded open, significant vulnerability at midpoint, pensive close"
+  },
+  "key_moments": [
+    {
+      "type": "progress",
+      "timestamp_offset_minutes": 3,
+      "content": "User went for a walk outside at lunch twice during the week — she reported it helped more than she expected",
+      "emotional_weight": 0.5
+    },
+    {
+      "type": "disclosure",
+      "timestamp_offset_minutes": 14,
+      "content": "User connected her current fear of manager to her father's high expectations growing up — grades below 90% were treated as failure in her household",
+      "emotional_weight": 0.9
+    },
+    {
+      "type": "breakthrough",
+      "timestamp_offset_minutes": 22,
+      "content": "User named for the first time that her manager's behaviour pattern is consistent and targeted, not random feedback — she said 'I think he does this to me specifically and I've been blaming myself for it'",
+      "emotional_weight": 0.85
+    },
+    {
+      "type": "concern",
+      "timestamp_offset_minutes": 29,
+      "content": "User disclosed she prepared an alternative version of her next presentation just for her manager to pre-empt criticism, spending 6 hours on it over the weekend",
+      "emotional_weight": 0.8
+    },
+    {
+      "type": "goal",
+      "timestamp_offset_minutes": 36,
+      "content": "User said she wants to understand whether her self-worth outside of her job performance exists — 'I genuinely don't know who I am if I'm not succeeding at work'",
+      "emotional_weight": 0.95
+    }
+  ],
+  "unresolved_themes": [
+    "relationship with direct manager — suspected targeting behaviour",
+    "identity and self-worth outside of work performance",
+    "pattern of over-preparing as anxiety management"
+  ],
+  "progress_markers": [
+    "Completed the lunchtime walk commitment from session 1 — twice in the week",
+    "Demonstrated increased self-awareness about manager pattern"
+  ],
+  "user_commitments": [
+    "Will write down three things she values about herself that have nothing to do with her job before next session"
+  ],
+  "transcript": [
+    {
+      "speaker": "therapist",
+      "text": "It's good to see you again, Aisha. How was the week? Did you manage the lunchtime walk?"
+    },
+    {
+      "speaker": "user",
+      "text": "I did it twice, actually. Wednesday and Friday. It felt kind of pointless at first but... Wednesday I came back and I actually focused for two hours straight. So. That was unexpected."
+    },
+    {
+      "speaker": "therapist",
+      "text": "That's not a small thing. You followed through on something for yourself when everything else was pulling at you. How did that feel?"
+    },
+    {
+      "speaker": "user",
+      "text": "Weird. Like I was stealing time I shouldn't have. But also kind of good."
+    },
+    {
+      "speaker": "therapist",
+      "text": "Stealing time. I want to come back to that. But first — you mentioned last week that your manager publicly criticised you. Has anything happened since?"
+    },
+    {
+      "speaker": "user",
+      "text": "He pulled me aside before a client call to tell me my 'communication style was confusing the team.' But then praised Malik — who said almost the same thing I said in the previous meeting — in front of everyone. I've started to notice that pattern."
+    },
+    {
+      "speaker": "therapist",
+      "text": "What do you mean by pattern?"
+    },
+    {
+      "speaker": "user",
+      "text": "It's always me. Not everyone. Me. I think I've been spending two years believing it's my fault and maybe... maybe it's not entirely my fault. That feels like a huge thing to even think."
+    },
+    {
+      "speaker": "therapist",
+      "text": "It is a huge thing. And it took real clarity to see it. When did you start tying your value as a person to what your manager thinks of your work?"
+    },
+    {
+      "speaker": "user",
+      "text": "Probably... my dad. He never said he was proud of me outright. It was always 'why not 95 instead of 90.' I got into a top university and his first question was 'what's the ranking.' I think I've just been... searching for that approval forever. In every boss I've had."
+    },
+    {
+      "speaker": "therapist",
+      "text": "That's a profound connection to make, Aisha. You've been replaying that dynamic — putting your manager in your father's role. And responding the same way you learned to respond as a child: work harder, be better, make the criticism stop."
+    },
+    {
+      "speaker": "user",
+      "text": "I spent six hours this weekend making a backup version of my next presentation. Just for him. In case he hates the main one."
+    },
+    {
+      "speaker": "therapist",
+      "text": "Six hours of your weekend. How did you feel while you were doing it?"
+    },
+    {
+      "speaker": "user",
+      "text": "Honestly? Calmer. Which is terrible, right? Because it's not calm, it's just... managing the anxiety by feeding it."
+    },
+    {
+      "speaker": "therapist",
+      "text": "That insight is really important. You just described the cycle precisely. The preparation isn't resting — it's anxiety wearing a productive disguise. I want to ask you something bigger. If you weren't defined by how well you perform at work — who would you be?"
+    },
+    {
+      "speaker": "user",
+      "text": "I... don't know. I genuinely don't know. And that's maybe the scariest thing I've said in here."
+    },
+    {
+      "speaker": "therapist",
+      "text": "It might be the most important thing too. That question — who am I outside of my performance — I'd like you to sit with it this week. Not solve it. Just sit with it. And maybe write down three things you value about yourself that have nothing to do with your job."
+    },
+    {
+      "speaker": "user",
+      "text": "Three things. Okay. I'll try. I honestly can't think of any right now but I'll try."
+    },
+    {
+      "speaker": "therapist",
+      "text": "That 'I'll try' is enough. You showed up again. You went on those walks. You're doing the work."
+    }
+  ]
+}

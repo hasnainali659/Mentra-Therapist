@@ -1,0 +1,153 @@
+{
+  "session_id": "sess_003",
+  "user_id": "user_aisha_001",
+  "session_number": 3,
+  "timestamp": "2026-02-28T19:00:00Z",
+  "session_theme": "setting boundaries and reclaiming identity",
+  "secondary_themes": ["self-compassion", "values clarification", "assertiveness"],
+  "emotional_tone": {
+    "opening": "nervous but energised",
+    "closing": "cautiously hopeful, grounded",
+    "arc": "ascending — genuine lift in session"
+  },
+  "key_moments": [
+    {
+      "type": "breakthrough",
+      "timestamp_offset_minutes": 6,
+      "content": "User arrived with a handwritten list of five things she values about herself unrelated to work: her loyalty to friends, her cooking, the fact that she learned Urdu independently as an adult, how she shows up for her younger sister, and her curiosity",
+      "emotional_weight": 0.9
+    },
+    {
+      "type": "breakthrough",
+      "timestamp_offset_minutes": 18,
+      "content": "User said she left work at 6:30pm on Thursday 'on purpose' — not because she finished everything, but because she decided she deserved to. Described it as 'the most rebellious thing I've done in two years'",
+      "emotional_weight": 0.95
+    },
+    {
+      "type": "disclosure",
+      "timestamp_offset_minutes": 26,
+      "content": "User reflected that she had been treating herself as a machine rather than a person and felt grief about the years spent in that mode",
+      "emotional_weight": 0.8
+    },
+    {
+      "type": "breakthrough",
+      "timestamp_offset_minutes": 33,
+      "content": "User articulated a new belief for the first time: 'My work is something I do. It is not who I am.' She said this was the first time she had ever believed that sentence.",
+      "emotional_weight": 1.0
+    },
+    {
+      "type": "goal",
+      "timestamp_offset_minutes": 40,
+      "content": "User set an intention to have a direct conversation with her manager about workload expectations before the end of next month — acknowledging this will be very hard but saying she wants to try",
+      "emotional_weight": 0.75
+    }
+  ],
+  "unresolved_themes": [
+    "direct conversation with manager still pending",
+    "grief about years spent in performance-identity mode"
+  ],
+  "progress_markers": [
+    "Completed values list homework — came with 5 items written by hand",
+    "Left work at 6:30pm intentionally for the first time in months",
+    "Articulated core belief shift: work is something she does, not who she is",
+    "Lunchtime walks now happening 3–4 times per week without prompting"
+  ],
+  "user_commitments": [
+    "Will continue leaving work by 6:30pm at least twice per week",
+    "Will draft (not send) what she wants to say to her manager about workload before next session"
+  ],
+  "transcript": [
+    {
+      "speaker": "therapist",
+      "text": "Welcome back. You look different today — something about how you walked in. What's going on?"
+    },
+    {
+      "speaker": "user",
+      "text": "I did the list. I actually did it. I have it here."
+    },
+    {
+      "speaker": "therapist",
+      "text": "You brought it. Can I hear it?"
+    },
+    {
+      "speaker": "user",
+      "text": "Okay. One — I'm a really loyal friend. Like genuinely, I would drop anything. Two — I'm a good cook. I make this lamb karahi that my whole family asks for at every gathering. Three — I taught myself Urdu as an adult because I wanted to read my grandmother's letters. Four — I'm the person my little sister calls when things fall apart. Five — I'm curious. I love learning things for no reason."
+    },
+    {
+      "speaker": "therapist",
+      "text": "Aisha. That is a remarkable list. How did it feel to write those?"
+    },
+    {
+      "speaker": "user",
+      "text": "Hard at first. I kept second-guessing every one. But then something shifted and I kept going. I had to stop at five because there were more and I didn't want to get carried away."
+    },
+    {
+      "speaker": "therapist",
+      "text": "There were more. I want you to notice that. And I also want to ask — when you read that list, does the person on it sound like a fraud?"
+    },
+    {
+      "speaker": "user",
+      "text": "No. She sounds like... a real person. Which is weird because I didn't think I was one for a while."
+    },
+    {
+      "speaker": "therapist",
+      "text": "Something else happened this week. I can tell. What was it?"
+    },
+    {
+      "speaker": "user",
+      "text": "On Thursday I left at 6:30. Not because I finished everything — I didn't. I just decided to go. I stood up, packed my bag, and walked out while there was still light outside. It felt like the most rebellious thing I've done in two years."
+    },
+    {
+      "speaker": "therapist",
+      "text": "That is genuinely significant. What made Thursday the day?"
+    },
+    {
+      "speaker": "user",
+      "text": "I looked at the list. I thought about the person on it. And I thought — that person deserves to go home."
+    },
+    {
+      "speaker": "therapist",
+      "text": "That is a completely different kind of thinking to what you described four weeks ago. What shifted?"
+    },
+    {
+      "speaker": "user",
+      "text": "I think I've been treating myself like a machine. Just... output, output, output. And I've been grieving a bit this week actually. All the years I spent doing that. I'm 31. That's a lot of evenings."
+    },
+    {
+      "speaker": "therapist",
+      "text": "That grief is real and it makes sense. But I want to point out something: you saw it, and then you changed something the very next day. That's not nothing. That's actually everything."
+    },
+    {
+      "speaker": "user",
+      "text": "I keep coming back to something. I think I've had it backwards my whole life. My work is something I do. It is not who I am. That feels... I actually believe that right now. For the first time."
+    },
+    {
+      "speaker": "therapist",
+      "text": "Say it again."
+    },
+    {
+      "speaker": "user",
+      "text": "My work is something I do. It is not who I am."
+    },
+    {
+      "speaker": "therapist",
+      "text": "Remember that sentence. We're going to return to it — especially on the hard days. There's still the conversation with your manager. How are you feeling about that?"
+    },
+    {
+      "speaker": "user",
+      "text": "Terrified. But I think I need to do it. Not to fix him — I don't think I can. But to stop pretending it's not happening. Could I maybe write down what I want to say first? Before I actually say it?"
+    },
+    {
+      "speaker": "therapist",
+      "text": "That's exactly the right instinct. Write it. You don't have to send it or say it yet. Just get it out of your head and onto the page. Bring it next time."
+    },
+    {
+      "speaker": "user",
+      "text": "I can do that. I'm... I feel okay right now. Genuinely okay. I don't think I've said that in a while."
+    },
+    {
+      "speaker": "therapist",
+      "text": "I noticed. It suits you."
+    }
+  ]
+}

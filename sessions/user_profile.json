@@ -1,0 +1,46 @@
+{
+  "user_id": "user_aisha_001",
+  "display_name": "Aisha",
+  "created_at": "2026-02-04T19:00:00Z",
+  "last_session_at": "2026-03-14T19:30:00Z",
+  "days_since_last_session": 5,
+  "total_sessions": 5,
+  "persistent_themes": [
+    "workplace stress and toxic management",
+    "impostor syndrome and self-worth tied to performance",
+    "perfectionism and over-preparation as anxiety management",
+    "identity outside of work — actively developing"
+  ],
+  "overall_progress_direction": "positive with setback in session 4",
+  "known_strengths": [
+    "high self-awareness once given space to reflect",
+    "follows through on commitments between sessions",
+    "able to make cognitive connections quickly when presented with them",
+    "strong support network once she allows herself to use it"
+  ],
+  "known_sensitivities": [
+    "public criticism — triggers deep shame response",
+    "being perceived as weak or unable to cope",
+    "approval-seeking from authority figures (linked to paternal dynamic)"
+  ],
+  "active_commitments": [
+    "Leaving work by 6:30pm at least twice per week",
+    "Continuing lunchtime walks 3-4 times per week",
+    "Writing 30-minute free-form career vision exercise this week"
+  ],
+  "open_situations": [
+    "PIP threat from manager — outcome still unknown",
+    "Long-term career direction — user beginning to explore"
+  ],
+  "notification_preferences": {
+    "opt_in": true,
+    "preferred_time": "evening",
+    "preferred_channel": "push"
+  },
+  "privacy_settings": {
+    "allow_memory_storage": true,
+    "allow_semantic_search": true,
+    "user_can_delete_memories": true,
+    "data_retention_days": 365
+  }
+}

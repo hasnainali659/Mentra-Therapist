@@ -1,0 +1,140 @@
+{
+  "session_id": "sess_001",
+  "user_id": "user_aisha_001",
+  "session_number": 1,
+  "timestamp": "2026-02-04T19:30:00Z",
+  "session_theme": "workplace stress and burnout",
+  "secondary_themes": ["perfectionism", "fear of failure", "people pleasing"],
+  "emotional_tone": {
+    "opening": "anxious, reluctant, guarded",
+    "closing": "slightly relieved but still overwhelmed",
+    "arc": "descending then slight recovery"
+  },
+  "key_moments": [
+    {
+      "type": "disclosure",
+      "timestamp_offset_minutes": 4,
+      "content": "User admitted she has been working 12-hour days for 3 months and has not told anyone, including family",
+      "emotional_weight": 0.8
+    },
+    {
+      "type": "concern",
+      "timestamp_offset_minutes": 12,
+      "content": "User described her manager publicly criticising her work in a team meeting, leaving her feeling humiliated and questioning her competence",
+      "emotional_weight": 0.9
+    },
+    {
+      "type": "disclosure",
+      "timestamp_offset_minutes": 21,
+      "content": "User revealed she skipped lunch every day this week and has been having headaches she has been ignoring",
+      "emotional_weight": 0.75
+    },
+    {
+      "type": "concern",
+      "timestamp_offset_minutes": 31,
+      "content": "User said she cried in the bathroom at work twice this week but made sure nobody saw her because she does not want to appear weak",
+      "emotional_weight": 0.95
+    },
+    {
+      "type": "goal",
+      "timestamp_offset_minutes": 38,
+      "content": "User expressed a desire to stop feeling like a fraud at work and to be able to leave the office before 8pm at least twice a week",
+      "emotional_weight": 0.6
+    }
+  ],
+  "unresolved_themes": [
+    "relationship with direct manager",
+    "fear of being perceived as incompetent",
+    "physical self-neglect patterns"
+  ],
+  "progress_markers": [],
+  "user_commitments": [
+    "Will try to take a 10-minute walk outside at lunch at least once this week"
+  ],
+  "transcript": [
+    {
+      "speaker": "therapist",
+      "text": "Welcome, Aisha. I'm glad you're here. There's no pressure to cover anything specific today — this is your space. What's been on your mind lately?"
+    },
+    {
+      "speaker": "user",
+      "text": "I'm not even sure where to start, honestly. Work, I guess. It's just... a lot."
+    },
+    {
+      "speaker": "therapist",
+      "text": "That's a perfectly fine place to start. When you say it's a lot — what does that actually look like in your day?"
+    },
+    {
+      "speaker": "user",
+      "text": "I've been staying until like 8 or 9pm every night. For months. I tell my family I'm 'just finishing something up' but it's been like this since October. My manager keeps piling things on and I just... say yes. Every time."
+    },
+    {
+      "speaker": "therapist",
+      "text": "That takes a real toll. Three months is a long time to be carrying something alone. What happens when you think about saying no to your manager?"
+    },
+    {
+      "speaker": "user",
+      "text": "It feels impossible. Last week he called out my presentation in front of the whole team. Said it lacked 'strategic thinking.' In front of everyone. I wanted to disappear."
+    },
+    {
+      "speaker": "therapist",
+      "text": "That sounds incredibly painful — to be criticised in public like that. What went through your mind in that moment?"
+    },
+    {
+      "speaker": "user",
+      "text": "That maybe he's right. That I'm not actually good at this job and everyone is slowly figuring it out. I've been waiting for someone to tell me I don't belong there."
+    },
+    {
+      "speaker": "therapist",
+      "text": "I want to sit with that for a second. You said you've been waiting for that. How long have you felt that way?"
+    },
+    {
+      "speaker": "user",
+      "text": "Honestly? Since I got hired. Two years. I've just been holding my breath."
+    },
+    {
+      "speaker": "therapist",
+      "text": "Two years is a long time to hold your breath. I'm also noticing — you mentioned working 12-hour days, your manager publicly criticised you. How are you taking care of yourself physically in all of this?"
+    },
+    {
+      "speaker": "user",
+      "text": "I mean... I'm fine. I skipped lunch a few times this week. I've had headaches but that's probably just the screen time."
+    },
+    {
+      "speaker": "therapist",
+      "text": "A few times or every day this week?"
+    },
+    {
+      "speaker": "user",
+      "text": "...Every day. And I cried in the bathroom yesterday. And on Tuesday. But I made sure nobody saw."
+    },
+    {
+      "speaker": "therapist",
+      "text": "I'm really glad you told me that. That took courage. The fact that you're making sure nobody sees — what does it mean to you if someone does see?"
+    },
+    {
+      "speaker": "user",
+      "text": "That I'm weak. That I can't handle it. That they were right about me."
+    },
+    {
+      "speaker": "therapist",
+      "text": "We're going to come back to that belief — because I think it's doing a lot of heavy lifting in your life right now. For today, I want to ask: what would feeling even 10% better look like at work? Not fixed — just 10% better."
+    },
+    {
+      "speaker": "user",
+      "text": "Leaving before 8pm? Not feeling sick when I open my laptop in the morning. Not crying at work."
+    },
+    {
+      "speaker": "therapist",
+      "text": "Those are real and valid things to work toward. Let's start small. Could you commit to one thing this week — just one? Like stepping outside for ten minutes at lunch?"
+    },
+    {
+      "speaker": "user",
+      "text": "I can try that. It feels stupid but I can try."
+    },
+    {
+      "speaker": "therapist",
+      "text": "It's not stupid at all. It's a start. And starting is the hardest part. You did something harder today — you showed up and talked about things you've been holding alone for a long time. That matters."
+    }
+  ]
+}

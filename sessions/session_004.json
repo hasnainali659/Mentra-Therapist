@@ -1,0 +1,159 @@
+{
+  "session_id": "sess_004",
+  "user_id": "user_aisha_001",
+  "session_number": 4,
+  "timestamp": "2026-03-09T20:00:00Z",
+  "session_theme": "confrontation aftermath and self-doubt spiral",
+  "secondary_themes": ["shame", "regret", "catastrophising", "somatic anxiety"],
+  "emotional_tone": {
+    "opening": "shaken, speaking quickly, visibly distressed",
+    "closing": "calmer but still raw, somewhat destabilised",
+    "arc": "distressed peak mid-session, partial stabilisation toward close"
+  },
+  "key_moments": [
+    {
+      "type": "disclosure",
+      "timestamp_offset_minutes": 2,
+      "content": "User disclosed she tried to have the workload conversation with her manager but it escalated — manager accused her of 'not being a team player' and threatened to put her on a performance improvement plan",
+      "emotional_weight": 1.0
+    },
+    {
+      "type": "concern",
+      "timestamp_offset_minutes": 10,
+      "content": "User has not slept properly in four days since the confrontation. Reports waking at 3am replaying the conversation and spiralling into worst-case scenarios about losing her job",
+      "emotional_weight": 0.95
+    },
+    {
+      "type": "concern",
+      "timestamp_offset_minutes": 16,
+      "content": "User expressed regret about attempting the conversation at all — 'I should have just kept my head down, I ruined everything' — and is questioning all the progress made in sessions 2 and 3",
+      "emotional_weight": 0.9
+    },
+    {
+      "type": "breakthrough",
+      "timestamp_offset_minutes": 28,
+      "content": "Therapist reframed: user did not create the problem, she revealed it. The manager's threat confirms the dynamic was real. User sat with this for a moment and said 'I think I knew that. I just needed someone to say it.'",
+      "emotional_weight": 0.75
+    },
+    {
+      "type": "concern",
+      "timestamp_offset_minutes": 35,
+      "content": "User mentioned her mother called this week and she could not explain why she was upset — 'I just said work is fine.' She is isolating from support systems while in crisis.",
+      "emotional_weight": 0.8
+    }
+  ],
+  "unresolved_themes": [
+    "manager confrontation and its professional consequences",
+    "sleep disruption and somatic anxiety symptoms",
+    "isolation from personal support network during crisis",
+    "risk of reverting to pre-therapy self-suppression patterns"
+  ],
+  "progress_markers": [
+    "User did attempt the manager conversation — she followed through on her commitment",
+    "Recognised mid-session that she is catastrophising rather than seeing situation clearly"
+  ],
+  "user_commitments": [
+    "Will text one person in her personal life this week — does not need to explain everything, just make contact",
+    "Will reread her values list when the 3am spiral starts"
+  ],
+  "clinical_flags": [
+    "Persistent sleep disruption for 4+ days",
+    "Active catastrophising about job loss",
+    "Social isolation from support network",
+    "Signs of shame-based cognitive distortion — attributing manager's behaviour to personal failure"
+  ],
+  "transcript": [
+    {
+      "speaker": "therapist",
+      "text": "Aisha — what happened? You sounded urgent in your message."
+    },
+    {
+      "speaker": "user",
+      "text": "I did it. I had the conversation. And it was a disaster. He said I wasn't a team player. He mentioned a performance improvement plan. An actual PIP. I've been awake since Tuesday."
+    },
+    {
+      "speaker": "therapist",
+      "text": "Okay. Let's slow down. Tell me what happened — from the beginning."
+    },
+    {
+      "speaker": "user",
+      "text": "I had my notes. I was calm. I said I wanted to discuss workload distribution because I felt it had become unsustainable. He immediately got defensive. Said I was the only one complaining. Said if I couldn't handle the expectations maybe this wasn't the right fit. Then he said he'd 'been keeping notes' on me. He said the word PIP. I smiled and said thank you for the feedback and then I walked to the bathroom and sat on the floor for ten minutes."
+    },
+    {
+      "speaker": "therapist",
+      "text": "You kept your composure in that room. That took enormous strength, Aisha. And then you came here. I want to acknowledge that."
+    },
+    {
+      "speaker": "user",
+      "text": "I shouldn't have said anything. I ruined everything. I should have just kept my head down. Two months of sessions, all this progress, and I walked straight into a wall."
+    },
+    {
+      "speaker": "therapist",
+      "text": "Can I say something that might feel uncomfortable?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes."
+    },
+    {
+      "speaker": "therapist",
+      "text": "You didn't create this problem by speaking. You revealed a problem that was already there. His response — the defensiveness, the notes, the PIP threat — that is not the response of a manager who received reasonable feedback. That is the response of someone who has been managing through fear. You didn't ruin anything. You just got confirmation of what you already suspected."
+    },
+    {
+      "speaker": "user",
+      "text": "I think I knew that. I just needed someone to say it. I've been up at 3am every night running the conversation over and over. Like if I replay it enough I'll find the version where I said it better."
+    },
+    {
+      "speaker": "therapist",
+      "text": "There is no better version that would have changed his response. You're searching for control in a situation where someone else's behaviour is the problem. That's exhausting, Aisha. Have you talked to anyone? Family, a friend?"
+    },
+    {
+      "speaker": "user",
+      "text": "My mum called Thursday. I just said work was fine. I couldn't — I don't know how to explain it. I don't want them to worry."
+    },
+    {
+      "speaker": "therapist",
+      "text": "So you're managing the crisis alone."
+    },
+    {
+      "speaker": "user",
+      "text": "I'm used to it."
+    },
+    {
+      "speaker": "therapist",
+      "text": "I know. And that pattern — it's the same one we've been working on. Let me ask you something. If your sister was going through exactly this, would you want her to call you?"
+    },
+    {
+      "speaker": "user",
+      "text": "Immediately. Yes."
+    },
+    {
+      "speaker": "therapist",
+      "text": "Then you're allowed the same thing. You don't have to explain the whole situation. Just make contact. Text one person this week. Not to debrief — just so someone knows you exist and you're having a hard time."
+    },
+    {
+      "speaker": "user",
+      "text": "I can do that. One text. I can do that."
+    },
+    {
+      "speaker": "therapist",
+      "text": "And the 3am spirals — do you still have your values list?"
+    },
+    {
+      "speaker": "user",
+      "text": "It's in my phone."
+    },
+    {
+      "speaker": "therapist",
+      "text": "Read it at 3am. Not to fix everything. Just to remember who you are before you let the spiral write the story."
+    },
+    {
+      "speaker": "user",
+      "text": "Okay. I'm still scared. I don't know what's going to happen at work."
+    },
+    {
+      "speaker": "therapist",
+      "text": "That fear is reasonable. The situation is genuinely uncertain. But you are not the same person who walked in here two months ago hiding tears in a bathroom. That is real, even on a night like tonight."
+    }
+  ]
+}
