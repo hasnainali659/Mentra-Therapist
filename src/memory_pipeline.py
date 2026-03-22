@@ -235,8 +235,14 @@ def retrieve_relevant_memories(
     settings: Settings, user_id: str, query: str, limit: int = 4
 ) -> list[ExtractedMemory]:
     vector_store = get_vector_store(settings)
+    meta_key = vector_store.metadata_payload_key
     qdrant_filter = Filter(
-        must=[FieldCondition(key="user_id", match=MatchValue(value=user_id))]
+        must=[
+            FieldCondition(
+                key=f"{meta_key}.user_id",
+                match=MatchValue(value=user_id),
+            )
+        ]
     )
     documents = vector_store.similarity_search(query=query, k=limit, filter=qdrant_filter)
 

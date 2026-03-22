@@ -64,3 +64,7 @@ curl -s -X POST http://127.0.0.1:8000/session-open -H "Content-Type: application
 ```
 
 On Windows PowerShell you may need to escape quotes differently — Postman works fine too. **Copy-paste payloads:** see [`docs/api_payloads.md`](docs/api_payloads.md).
+
+## Future 2 Weeks Plan
+
+Deep agent workflows for long term and persistent memory
