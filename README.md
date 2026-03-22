@@ -17,6 +17,8 @@ Chat completions use **DeepSeek** first (OpenAI-compatible API); if the call fai
 | `sessions/` | Sample data |
 | `docs/memory_architecture.md` | Design write-up for the brief |
 | `docs/ethical_risk_analysis.md` | Short ethics note |
+| `docs/api_payloads.md` | Example JSON bodies + curl for each endpoint |
+| `docs/gradio_test_questions.md` | Questions to exercise Gradio chat + retrieval |
 | `architecture.md` | Longer walkthrough if someone wants diagrams |
 
 ## Setup
@@ -61,4 +63,4 @@ curl -s -X POST http://127.0.0.1:8000/ingest-all
 curl -s -X POST http://127.0.0.1:8000/session-open -H "Content-Type: application/json" -d "{\"user_id\":\"user_aisha_001\",\"current_context\":\"check in on work stress\"}"
 ```
 
-On Windows PowerShell you may need to escape quotes differently — Postman works fine too.
+On Windows PowerShell you may need to escape quotes differently — Postman works fine too. **Copy-paste payloads:** see [`docs/api_payloads.md`](docs/api_payloads.md).

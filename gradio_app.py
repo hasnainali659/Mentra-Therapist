@@ -178,7 +178,8 @@ def build_app() -> gr.Blocks:
         gr.Markdown("# Recall prototype")
         gr.Markdown(
             "Left side: static stuff from the JSON files. Right side: chat uses Qdrant retrieval + the same model as the API. "
-            "Hit “prepare” once if the vector DB is empty."
+            "Hit “prepare” once if the vector DB is empty. "
+            "**Test questions:** see `docs/gradio_test_questions.md` in the repo for a full checklist."
         )
 
         with gr.Row():
